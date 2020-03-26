@@ -1,0 +1,2 @@
+# ViewBindingExamplekt
+ penggantti findviewbyid

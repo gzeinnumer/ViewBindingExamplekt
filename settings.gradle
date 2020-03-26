@@ -1,0 +1,2 @@
+rootProject.name='ViewBinding Example kt'
+include ':app'
