@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ViewBinding Example kt.iml" filepath="$PROJECT_DIR$/ViewBinding Example kt.iml" group="ViewBinding Example kt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewBinding_Example_kt.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewBinding_Example_kt.iml" group="ViewBinding_Example_kt" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ViewBinding Example kt/app" />
     </modules>
   </component>
