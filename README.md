@@ -183,7 +183,7 @@ class AdapterRV : RecyclerView.Adapter<AdapterRV.MyHolder>() {
 > AdapterRV.java
 
 ```kotlin
-public class AdapterRV extends RecyclerView.Adapter<AdapterRV.MyHolder> {
+public class AdapterRV extends RecyclerView.Adapter<ViewHolder>() {
     
     ...
     
