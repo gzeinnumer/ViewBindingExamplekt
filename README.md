@@ -45,7 +45,7 @@ android {
 > MainActivity.java
 
 ```kotlin
-public class MainActivity extends AppCompatActivity implements AdapterRVMultiType.MyOnClick {
+public class MainActivity extends AppCompatActivity implements AdapterRV.MyOnClick {
 
     private var binding: ActivityMainBinding? = null
 
