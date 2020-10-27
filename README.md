@@ -45,7 +45,7 @@ android {
 > MainActivity.java
 
 ```kotlin
-public class MainActivity extends AppCompatActivity implements AdapterRV.MyOnClick {
+class MainActivity : AppCompatActivity() {
 
     private var binding: ActivityMainBinding? = null
 
@@ -254,7 +254,7 @@ class AdapterRV : RecyclerView.Adapter<ViewHolder>() {
 
 > MainDialog.java
 
-```koltin
+```kotlin
 class MainDialog : DialogFragment() {
 
     override fun onCreateView(
